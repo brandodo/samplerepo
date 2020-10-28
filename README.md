@@ -1,2 +1,2 @@
-#My first repoooo
-this is a test, hello
+# Sample repo
+Hello World
